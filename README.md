@@ -1,5 +1,5 @@
 #EREBUS
-##A local password vault
+##A Local Password Vault
 
 ### Background / Features
 EREBUS is a local password vault application with a number of features. It's primary
