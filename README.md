@@ -14,18 +14,24 @@ to a hidden, encrypted file, accessible only by the EREBUS executable. EREBUS wi
 return a password given that password's identifier. In order to ensure the security of this app, EREBUS will also prompt
 the user for a single password whenever the application opens.
 
+###**DISCLAIMER**
+This is an amateur project. It's features may prove useful, either as a functioning password vault or for instructional purposes,
+but is in no way meant to effectively protect your information. This project will strive to achieve that level of sophistication and security,
+but users are advised against storing important or sensitive information within the EREBUS vault.
+
 ### Implemented Features
 - README updated with initial project description
 
 ### TODO List
-- Determine languages to use (c/scala/python)
 - Create dev branches
+- 
 
 ### Branch Allocations
-- master: this branch will be home to the most recent, working executable and only the executable.
-- src: this branch will be home to the source code for the most-recent working executable located on master. the executable may be stored here as well
-- mainDev: this is the main development branch that other feature branches will come from
+- master: this branch will be home to the most recent, working source code in python
+- dev: this is the main development branch that other feature branches will come from
+- cdev: this is the main branch for work in c. cdev and dev will work independently from one another, with cdev eventually trying to 
+be an exact copy of the dev branch
 
 ###LICENSE
-Copyright CDT James Thomas, Project Manager, and CDT Zachary Royal, Collaborator, USMA. Free for instructional and/or personal use.
+Copyright CDT James Thomas, Project Manager, and CDT Zachary Royal, Collaborator, USMA 2017. Free for instructional and/or personal use.
 Contact james.b.thomas@mac.com for commercial/business requests.
