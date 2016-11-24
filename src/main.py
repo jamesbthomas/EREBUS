@@ -5,7 +5,9 @@
 #Main function for the EREBUS password vault
 #Handles the GUI implementation and passes user input to the appropriate encryption File
 
+#imports
 from tkinter import *
+import ceasar
 
 #global variables to represent the current window
 scrambler = False
