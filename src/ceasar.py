@@ -4,7 +4,7 @@
 #receives input from GUI defined in main.py, executes ceasar cipher and returns output
 #to main.py
 
-def ceasar(input,shift):
+def doCeasar(input,shift):
   #type check for security
   input = str(input)
   shift = int(shift)
