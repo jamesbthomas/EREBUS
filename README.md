@@ -33,5 +33,5 @@ but users are advised against storing important or sensitive information within 
 be an exact copy of the dev branch
 
 ###LICENSE
-Copyright CDT James Thomas, Project Manager, and CDT Zachary Royal, Collaborator, USMA 2017. Free for instructional and/or personal use.
+Copyright CDT James Thomas, Project Manager, USMA 2017. Free for instructional and/or personal use.
 Contact james.b.thomas@mac.com for commercial/business requests.
